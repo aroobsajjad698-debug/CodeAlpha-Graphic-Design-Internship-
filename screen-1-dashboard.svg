@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1148 1024" width="1148" height="1024">
+  <rect width="1148" height="1024" fill="#0E0E10"/>
+  <rect x="68" y="68" width="540" height="900" fill="#FAF7F2"/>
+
+  <text x="108" y="150" font-family="Arial, sans-serif" font-size="18" letter-spacing="3" fill="#A8A29E">GOOD MORNING</text>
+  <text x="108" y="200" font-family="Georgia, serif" font-weight="bold" font-size="44" fill="#0E0E10">Maya</text>
+
+  <line x1="108" y1="232" x2="568" y2="232" stroke="#DDD7CC" stroke-width="1"/>
+
+  <text x="108" y="380" font-family="Georgia, serif" font-weight="bold" font-size="150" fill="#0E0E10">12</text>
+  <path d="M 88 330 Q 65 380 88 430" stroke="#D94F30" stroke-width="2" fill="none"/>
+  <text x="108" y="412" font-family="Arial, sans-serif" font-size="18" letter-spacing="3" fill="#A8A29E">PROJECTS IN PROGRESS</text>
+
+  <text x="108" y="478" font-family="Arial, sans-serif" font-size="20" fill="#0E0E10">This week's focus</text>
+  <line x1="108" y1="498" x2="568" y2="498" stroke="#DDD7CC" stroke-width="1"/>
+
+  <text x="108" y="548" font-family="Georgia, serif" font-size="28" fill="#0E0E10">Brand identity, phase two</text>
+  <text x="108" y="576" font-family="Arial, sans-serif" font-size="18" fill="#A8A29E">Due Friday — 3 of 5 tasks complete</text>
+  <rect x="108" y="596" width="420" height="6" fill="#E4DFD5"/>
+  <rect x="108" y="596" width="252" height="6" fill="#D94F30"/>
+
+  <text x="108" y="660" font-family="Georgia, serif" font-size="28" fill="#0E0E10">Typography exploration</text>
+  <text x="108" y="688" font-family="Arial, sans-serif" font-size="18" fill="#A8A29E">Due next week — not started</text>
+
+  <rect x="368" y="900" width="158" height="50" fill="#D94F30"/>
+  <text x="397" y="932" font-family="Arial, sans-serif" font-size="20" fill="#1A0D08">New task</text>
+
+  <!-- right margin column -->
+  <text x="648" y="135" font-family="Arial, sans-serif" font-size="18" letter-spacing="3" fill="#A8A29E">NOTES</text>
+  <text x="648" y="184" font-family="Georgia, serif" font-size="26" fill="#FAF7F2">Client called re: logo direction</text>
+  <text x="648" y="212" font-family="Arial, sans-serif" font-size="18" fill="#777771">9:42 AM</text>
+
+  <text x="648" y="266" font-family="Georgia, serif" font-size="26" fill="#FAF7F2">Send moodboard v2 by Thursday</text>
+  <text x="648" y="294" font-family="Arial, sans-serif" font-size="18" fill="#777771">8:15 AM</text>
+
+  <text x="648" y="350" font-family="Arial, sans-serif" font-size="18" letter-spacing="3" fill="#A8A29E">SHORTCUTS</text>
+  <circle cx="668" cy="398" r="20" fill="none" stroke="#A8A29E" stroke-width="1.5"/>
+  <text x="660" y="405" font-family="Arial, sans-serif" font-size="22" fill="#A8A29E">+</text>
+  <text x="700" y="404" font-family="Arial, sans-serif" font-size="20" fill="#FAF7F2">Add client</text>
+
+  <circle cx="668" cy="452" r="20" fill="none" stroke="#A8A29E" stroke-width="1.5"/>
+  <text x="660" y="459" font-family="Arial, sans-serif" font-size="22" fill="#A8A29E">↑</text>
+  <text x="700" y="458" font-family="Arial, sans-serif" font-size="20" fill="#FAF7F2">Upload file</text>
+</svg>
