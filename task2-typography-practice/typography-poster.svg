@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1000" width="1200" height="1000">
+  <rect width="1200" height="1000" fill="#181818"/>
+
+  <!-- Oversized dominant word, cropped at the canvas edge -->
+  <text x="60" y="560" font-family="'Times New Roman', Georgia, serif" font-weight="900" font-size="420" fill="#C9FF3D">L</text>
+  <text x="280" y="560" font-family="'Times New Roman', Georgia, serif" font-weight="900" font-size="420" fill="#EFE9DD">IST</text>
+
+  <!-- whisper-scale supporting caption, opposite corner -->
+  <text x="820" y="650" font-family="Arial, sans-serif" font-size="22" letter-spacing="4" fill="#EFE9DD">TYPOGRAPHY</text>
+  <text x="820" y="678" font-family="Arial, sans-serif" font-size="22" letter-spacing="4" fill="#EFE9DD">STUDY NO. 03</text>
+  <text x="820" y="706" font-family="Arial, sans-serif" font-size="22" letter-spacing="4" fill="#EFE9DD">HIERARCHY OF</text>
+  <text x="820" y="734" font-family="Arial, sans-serif" font-size="22" letter-spacing="4" fill="#EFE9DD">ATTENTION</text>
+
+  <text x="60" y="950" font-family="Arial, sans-serif" font-size="18" letter-spacing="2" fill="#777771">CodeAlpha — Graphic Design Internship</text>
+</svg>
